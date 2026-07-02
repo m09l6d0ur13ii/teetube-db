@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T00:00:00Z",
+  "updatedAt": "2026-07-02T14:28:00Z",
   "updatedBy": "m09l6d0ur13ii",
-  "videos": {},
-  "moderators": ["m09l6d0ur13ii"]
+  "videos": {
+    "ROL67UcsRBg": {
+      "title": "DDNet ( Teeworlds ) – MapleSyrup (Moderate ★★★★★)",
+      "author": "Gaming Diaries",
+      "views": "22 просмотра",
+      "likes": "2",
+      "date": "29 мар. 2026 г.",
+      "thumbnail": "https://i.ytimg.com/vi/ROL67UcsRBg/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "video": [
+          "прохождение"
+        ],
+        "mode": [
+          "ddrace"
+        ],
+        "gameplayer": [
+          "real"
+        ]
+      },
+      "maps": [
+        "MapleSyrup"
+      ],
+      "players": [
+        "Fàłłéñ",
+        "Liogic"
+      ],
+      "clans": [],
+      "addedBy": "m09l6d0ur13ii",
+      "addedAt": "2026-07-02T14:28:00Z"
+    }
+  },
+  "moderators": [
+    "m09l6d0ur13ii"
+  ]
 }
