@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T14:45:06.289Z",
+  "updatedAt": "2026-07-02T14:48:12.955Z",
   "updatedBy": "Admin-Panel-Sync",
   "videos": {
     "ROL67UcsRBg": {
@@ -35,6 +35,39 @@
       "clans": [],
       "addedBy": "m09l6d0ur13ii",
       "addedAt": "2026-07-02T14:28:00Z"
+    },
+    "YMZ6W8bx5o0": {
+      "title": "Angeldust run by FALLET' king страв Robokotumba | FOXNET | KOG | DDRACE",
+      "author": "Fallet",
+      "views": "152 просмотра",
+      "likes": "6",
+      "date": "17 мар. 2026 г.",
+      "thumbnail": "https://i.ytimg.com/vi/YMZ6W8bx5o0/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "mode": [
+          "gores"
+        ],
+        "video": [
+          "прохождение"
+        ]
+      },
+      "maps": [
+        "Angeldust"
+      ],
+      "players": [
+        "Fallet'",
+        "king страв",
+        "Robokotumba"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-02T14:47:52.311Z"
     }
   },
   "moderators": [
