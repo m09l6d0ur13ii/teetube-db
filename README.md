@@ -1,44 +1,38 @@
-# teetube-db
+[🇷🇺 Русский](README.ru.md) | [🇬🇧 English](README.md)
 
-Global video database for [TeeTube](https://github.com/m09l6d0ur13ii/teetube) — the community DDNet/Teeworlds video tracker.
+# TeeTube Database
 
-## Structure
+This repository is the central database for **TeeTube**. 
 
-```json
-{
-  "version": 1,
-  "updatedAt": "ISO timestamp",
-  "updatedBy": "github username",
-  "videos": {
-    "YOUTUBE_VIDEO_ID": {
-      "title": "...",
-      "author": "...",
-      "views": "125000",
-      "likes": "2100",
-      "date": "2024-03-15",
-      "thumbnail": "https://i.ytimg.com/vi/ID/hqdefault.jpg",
-      "tags": {
-        "game": ["ddnet"],
-        "video": ["speedrun"],
-        "mode": ["ddrace"],
-        "gameplayer": ["real"]
-      },
-      "maps": ["Multeasymap"],
-      "players": ["Rajh"],
-      "clans": ["aura"],
-      "addedBy": "m09l6d0ur13ii",
-      "addedAt": "2026-07-02T00:00:00Z"
-    }
-  },
-  "moderators": ["m09l6d0ur13ii"]
-}
+It contains a single `database.json` file which stores metadata, tags, players, maps, and clans for every video indexed by TeeTube. The frontend website and extensions fetch this data via jsDelivr CDN.
+
+## 🔗 Related Projects
+
+TeeTube is divided into 4 repositories:
+- 💾 [TeeTube Database (Data)](https://github.com/m09l6d0ur13ii/teetube-db) - The repository you are looking at now.
+- 🌐 [TeeTube (Frontend)](https://github.com/m09l6d0ur13ii/teetube) - The main website.
+- 🛠️ [TeeTube Admin (Moderator Extension)](https://github.com/m09l6d0ur13ii/teetube-admin) - The admin extension.
+- 👁️ [TeeTube Extension (User Extension)](https://github.com/m09l6d0ur13ii/teetube-extension) - The extension for regular users.
+
+## 🛠️ How to download this repository
+
+To download the database JSON file:
+
+```bash
+git clone https://github.com/m09l6d0ur13ii/teetube-db.git
+cd teetube-db
 ```
+You can edit the `database.json` file manually and push it back to GitHub, or use the **TeeTube Admin** extension to do it automatically!
 
-## Read via jsDelivr CDN
+## 📦 How to download the ENTIRE TeeTube Project
 
+If you want to work on all parts of TeeTube at once:
+
+```bash
+mkdir teetube-workspace
+cd teetube-workspace
+git clone https://github.com/m09l6d0ur13ii/teetube.git
+git clone https://github.com/m09l6d0ur13ii/teetube-extension.git
+git clone https://github.com/m09l6d0ur13ii/teetube-admin.git
+git clone https://github.com/m09l6d0ur13ii/teetube-db.git
 ```
-https://cdn.jsdelivr.net/gh/m09l6d0ur13ii/teetube-db@main/database.json
-```
-
-## Write access
-Only moderators listed in `moderators` field can write to this database via the TeeTube Extension admin panel.
