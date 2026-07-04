@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T11:25:52.192Z",
+  "updatedAt": "2026-07-04T11:43:15.079Z",
   "updatedBy": "Admin-Panel-Sync",
   "videos": {
     "ROL67UcsRBg": {
@@ -460,6 +460,47 @@
       ],
       "addedBy": "local-sync",
       "addedAt": "2026-07-04T10:58:11.328Z"
+    },
+    "oMK4Q-P8mDg": {
+      "title": "DDNet - Pros Play TW 167: Old Man Can't Catch",
+      "author": "Aoe",
+      "views": 6500,
+      "likes": 182,
+      "date": "2025-08-05T05:47:38-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/oMK4Q-P8mDg/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "en"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "gameplay",
+          "fun",
+          "podcast"
+        ]
+      },
+      "maps": [
+        "Winterfall"
+      ],
+      "players": [
+        "Cloudly",
+        "Mizkibo",
+        "Noez",
+        "Aoe"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T11:41:58.800Z"
     }
   },
   "moderators": [
