@@ -58,8 +58,15 @@
       "maps": [
         "Angeldust"
       ],
-      "players": [],
-      "clans": [],
+      "players": [
+        "Fallet'",
+        "king страв",
+        "Robokotumba"
+      ],
+      "clans": [
+        "FOXNET",
+        "KOG"
+      ],
       "addedBy": "local-sync",
       "addedAt": "2026-07-02T18:53:19.002Z"
     },

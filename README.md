@@ -24,6 +24,16 @@ cd teetube-db
 ```
 You can edit the `database.json` file manually and push it back to GitHub, or use the **TeeTube Admin** extension to do it automatically!
 
+### ⚡ Caching & Bypassing Cache
+
+Since the database is served via jsDelivr CDN, it is heavily cached (usually up to 12 hours). If you want to fetch the absolute latest version immediately without waiting for the cache to expire, you can append a timestamp or random number parameter to the URL, like this:
+
+```text
+https://cdn.jsdelivr.net/gh/m09l6d0ur13ii/teetube-db@main/database.json?_=1783159428926
+```
+
+This will bypass the CDN cache and load the latest file directly from GitHub. We don't hide anything from players, so you can always use this method to get real-time data!
+
 ## 📦 How to download the ENTIRE TeeTube Project
 
 If you want to work on all parts of TeeTube at once:
