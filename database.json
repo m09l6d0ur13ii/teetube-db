@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T11:43:15.079Z",
+  "updatedAt": "2026-07-04T12:35:49.082Z",
   "updatedBy": "Admin-Panel-Sync",
   "videos": {
     "ROL67UcsRBg": {
@@ -36,7 +36,7 @@
     "YMZ6W8bx5o0": {
       "title": "Angeldust run by FALLET' king страв Robokotumba | FOXNET | KOG | DDRACE",
       "author": "Fallet",
-      "views": 152,
+      "views": 169,
       "likes": 6,
       "date": "2026-03-16T13:11:12-07:00",
       "thumbnail": "https://i.ytimg.com/vi/YMZ6W8bx5o0/hqdefault.jpg",
@@ -46,6 +46,9 @@
         ],
         "gameplayer": [
           "real"
+        ],
+        "lang": [
+          "ru"
         ],
         "mode": [
           "gores",
@@ -63,12 +66,9 @@
         "king страв",
         "Robokotumba"
       ],
-      "clans": [
-        "FOXNET",
-        "KOG"
-      ],
+      "clans": [],
       "addedBy": "local-sync",
-      "addedAt": "2026-07-02T18:53:19.002Z"
+      "addedAt": "2026-07-04T11:48:51.371Z"
     },
     "1ifq5T1N5Ts": {
       "title": "DDraceNetwork KoG Gores | ПАТРОН (Fallet') POV | 004 HARD ★✩✩✩✩",
@@ -501,6 +501,285 @@
       "clans": [],
       "addedBy": "local-sync",
       "addedAt": "2026-07-04T11:41:58.800Z"
+    },
+    "Qgi7Ta-4KB8": {
+      "title": "My Broadcast",
+      "author": "Beautemps",
+      "views": 0,
+      "likes": 3,
+      "date": "2026-07-03T14:18:46-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/Qgi7Ta-4KB8/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "teeworlds",
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "en"
+        ],
+        "mode": [
+          "Gores"
+        ],
+        "video": [
+          "gameplay"
+        ]
+      },
+      "maps": [],
+      "players": [
+        "Beautemps"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T12:22:40.359Z"
+    },
+    "VdP3_n9aszk": {
+      "title": "DDrace Solo Server #1 - Quick ★★☆☆☆",
+      "author": "Nietori / OsuIst",
+      "views": 64,
+      "likes": 2,
+      "date": "2024-11-04T11:50:45-08:00",
+      "thumbnail": "https://i.ytimg.com/vi/VdP3_n9aszk/hqdefault.jpg",
+      "tags": {
+        "game": [],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "en"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "gameplay"
+        ]
+      },
+      "maps": [
+        "Quick"
+      ],
+      "players": [
+        "OsuIst"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T12:26:27.310Z"
+    },
+    "c8upD42VY4U": {
+      "title": "run_guy_25 segmented run in 3:11min by uq",
+      "author": "David Villa - Teeworlds",
+      "views": 6198,
+      "likes": 118,
+      "date": "2024-05-27T12:51:39-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/c8upD42VY4U/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "en"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "speedrun",
+          "montage",
+          "playthrough"
+        ]
+      },
+      "maps": [
+        "run_guys_25"
+      ],
+      "players": [
+        "uq"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T12:23:59.558Z"
+    },
+    "hUhPtK5uZ30": {
+      "title": "Can a NOOB make it to a PRO team?",
+      "author": "TwiceRus",
+      "views": 249,
+      "likes": 23,
+      "date": "2026-07-02T09:45:35-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/hUhPtK5uZ30/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "en"
+        ],
+        "mode": [
+          "DDRace",
+          "Gores"
+        ],
+        "video": [
+          "fun",
+          "moment",
+          "meme"
+        ]
+      },
+      "maps": [],
+      "players": [
+        "Dorus",
+        "ZiKkie",
+        "champloo"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T12:18:31.191Z"
+    },
+    "jA9C0fBbN9A": {
+      "title": "Конец игры.",
+      "author": "neokamori",
+      "views": 774,
+      "likes": 54,
+      "date": "2026-07-02T15:39:03-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/jA9C0fBbN9A/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "gameplayer": [],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "Block",
+          "DDRace"
+        ],
+        "video": [
+          "podcast",
+          "other"
+        ]
+      },
+      "maps": [],
+      "players": [
+        "neokamori"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T12:28:50.399Z"
+    },
+    "kfLDreyICAc": {
+      "title": "DDNet - Strategic Paraplegic by Jimmy Jazz & Soapy Sandwich Brutal ★★★✰✰",
+      "author": "ninja 25",
+      "views": 0,
+      "likes": 4,
+      "date": "2026-07-03T08:36:29-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/kfLDreyICAc/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "teeworlds",
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "en"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "gameplay"
+        ]
+      },
+      "maps": [
+        "Strategic Paraplegic"
+      ],
+      "players": [
+        "ninja 25",
+        "zsh"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T12:27:38.965Z"
+    },
+    "myPVXLL2U_U": {
+      "title": "DDNet ( Teeworlds ) – Request (Moderate ★★✰✰✰)",
+      "author": "Gaming Diaries",
+      "views": 0,
+      "likes": 1,
+      "date": "2026-07-03T11:30:38-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/myPVXLL2U_U/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "gameplayer": [],
+        "lang": [],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "gameplay"
+        ]
+      },
+      "maps": [
+        "Request"
+      ],
+      "players": [
+        "Fàłłéñ",
+        "Liogic"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T12:24:20.869Z"
+    },
+    "zE3VudxVsLY": {
+      "title": "DDNet ( Teeworlds ) – Redemption (Moderate ★★★✰✰)",
+      "author": "Gaming Diaries",
+      "views": 9,
+      "likes": 1,
+      "date": "2026-07-02T11:30:29-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/zE3VudxVsLY/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "en"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough"
+        ]
+      },
+      "maps": [
+        "Redemption"
+      ],
+      "players": [
+        "Fàłłéñ",
+        "Liogic"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T12:19:18.150Z"
     }
   },
   "moderators": [
