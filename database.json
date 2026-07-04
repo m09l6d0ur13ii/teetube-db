@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T10:02:58.693Z",
+  "updatedAt": "2026-07-04T11:25:52.192Z",
   "updatedBy": "Admin-Panel-Sync",
   "videos": {
     "ROL67UcsRBg": {
@@ -134,6 +134,332 @@
       "clans": [],
       "addedBy": "local-sync",
       "addedAt": "2026-07-04T09:56:57.484Z"
+    },
+    "MWSqGqHRYzk": {
+      "title": "😨😱ЧЧТОО СТАРАЯ ВЕРСИЯ TEEWAR!!!!!! | Teewars | TeeWolrds | DDnet | DDRace | DDRaceNetwork",
+      "author": "Royal Tee",
+      "views": 112,
+      "likes": 4,
+      "date": "2024-08-10T04:37:39-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/MWSqGqHRYzk/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "other mods"
+        ],
+        "video": [
+          "gameplay",
+          "fun",
+          "moment"
+        ]
+      },
+      "maps": [],
+      "players": [
+        "begevvlad",
+        "Jeqshka",
+        "Megavrag"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T11:20:50.954Z"
+    },
+    "N18FoNFVEXw": {
+      "title": "[DDNet / Teeworlds] Teeasy - Rank 3 | 01:16 (Team 0) | by PandaMAP CLAN",
+      "author": "Jeqshka",
+      "views": 563,
+      "likes": 10,
+      "date": "2023-12-17T04:42:33-08:00",
+      "thumbnail": "https://i.ytimg.com/vi/N18FoNFVEXw/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "speedrun",
+          "t0speedrun"
+        ]
+      },
+      "maps": [
+        "Teeasy"
+      ],
+      "players": [
+        "Megavrag228",
+        "Jeqshka",
+        "SALAM",
+        "Danal Anal",
+        "Sugwo",
+        "Букашка"
+      ],
+      "clans": [
+        "PandaℳAP"
+      ],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T11:01:05.413Z"
+    },
+    "SLm-lbwPXqQ": {
+      "title": "[DDNet] How to skip - Unbalanced | by PandaMAP CLAN",
+      "author": "Jeqshka",
+      "views": 1433,
+      "likes": 34,
+      "date": "2023-11-03T13:20:35-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/SLm-lbwPXqQ/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru",
+          "en"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "tutorial",
+          "skips",
+          "moment"
+        ]
+      },
+      "maps": [
+        "Unbalanced"
+      ],
+      "players": [
+        "Megavrag228",
+        "Jeqshka",
+        "Markus777777"
+      ],
+      "clans": [
+        "PandaℳAP"
+      ],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T10:59:43.005Z"
+    },
+    "XVyBOLNJpe8": {
+      "title": "[DDNet / Teeworlds] Grey 3 - Rank 1 | 00:23 (Team 0) | by PandaMAP CLAN",
+      "author": "Jeqshka",
+      "views": 490,
+      "likes": 14,
+      "date": "2023-11-06T06:34:39-08:00",
+      "thumbnail": "https://i.ytimg.com/vi/XVyBOLNJpe8/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "t0speedrun",
+          "speedrun"
+        ]
+      },
+      "maps": [
+        "Grey 3"
+      ],
+      "players": [
+        "Megavrag228",
+        "Jeqshka",
+        "nimyfurry",
+        "funeral♱"
+      ],
+      "clans": [
+        "PandaℳAP"
+      ],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T11:00:13.229Z"
+    },
+    "i_yLB_d8SvE": {
+      "title": "Русский Teeworlds в 2012",
+      "author": "Jeqshka",
+      "views": 295,
+      "likes": 23,
+      "date": "2026-04-21T12:21:31-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/i_yLB_d8SvE/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "teeworlds"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "zCatch",
+          "DM",
+          "CTF",
+          "Block",
+          "other mods"
+        ],
+        "video": [
+          "moment",
+          "montage",
+          "fun",
+          "meme"
+        ]
+      },
+      "maps": [],
+      "players": [],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T11:02:35.962Z"
+    },
+    "pODUa5KSek8": {
+      "title": "[DDNet] Diamond Mine - Rank 4 | 00:36 (Team 0) | by PandaMAP",
+      "author": "Jeqshka",
+      "views": 542,
+      "likes": 8,
+      "date": "2023-09-20T07:53:52-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/pODUa5KSek8/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "speedrun",
+          "t0speedrun"
+        ]
+      },
+      "maps": [
+        "Diamond Mine"
+      ],
+      "players": [
+        "Jeqshka",
+        "Deldre",
+        "Fl0yZ"
+      ],
+      "clans": [
+        "PandaℳAP"
+      ],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T10:57:05.802Z"
+    },
+    "ptOOP4Y50vo": {
+      "title": "[DDNet] DayDrive - Rank 6 | 01:40 (Team 0) | by PandaMAP",
+      "author": "Jeqshka",
+      "views": 302,
+      "likes": 5,
+      "date": "2023-09-20T12:25:06-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/ptOOP4Y50vo/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "t0speedrun",
+          "speedrun"
+        ]
+      },
+      "maps": [
+        "DayDrive"
+      ],
+      "players": [
+        "superdial",
+        "Lemoncik",
+        "KuZeZ",
+        "Stinky",
+        "Jeqshka"
+      ],
+      "clans": [
+        "PandaℳAP"
+      ],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T10:56:22.475Z"
+    },
+    "qxvIuvStAvQ": {
+      "title": "[DDNet] School Hook - Rank 1 | 01:14 (Team 0) | by PandaMAP CLAN",
+      "author": "Jeqshka",
+      "views": 362,
+      "likes": 17,
+      "date": "2023-11-03T02:00:10-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/qxvIuvStAvQ/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet",
+          "teeworlds"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "speedrun",
+          "t0speedrun"
+        ]
+      },
+      "maps": [],
+      "players": [
+        "Megavrag228",
+        "Faramz",
+        "genhin",
+        "jeqshka",
+        "СССР☭",
+        "RusGule69",
+        "3EpKAЛ0",
+        "PenChik",
+        "Ded Insaid"
+      ],
+      "clans": [
+        "PandaℳAP"
+      ],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-04T10:58:11.328Z"
     }
   },
   "moderators": [
