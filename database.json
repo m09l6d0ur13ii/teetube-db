@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T11:58:59.749Z",
+  "updatedAt": "2026-07-11T15:12:42.648Z",
   "updatedBy": "Admin-Panel-Sync",
   "videos": {
     "ROL67UcsRBg": {
@@ -3108,6 +3108,114 @@
       "clans": [],
       "addedBy": "local-sync",
       "addedAt": "2026-07-05T11:56:28.571Z"
+    },
+    "AGO8Ft1RIeI": {
+      "title": "DDNet - Pros Play TW 164: Best Throw Of My life!",
+      "author": "Aoe",
+      "views": 5700,
+      "likes": 188,
+      "date": "Unknown Date",
+      "thumbnail": "https://i.ytimg.com/vi/AGO8Ft1RIeI/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "en"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "gameplay",
+          "podcast"
+        ]
+      },
+      "maps": [],
+      "players": [],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-05T23:53:23.276Z"
+    },
+    "AIKsnAw9fnM": {
+      "title": "Resistance TEAMRANK 1",
+      "author": "BH",
+      "views": 1765,
+      "likes": 42,
+      "date": "4 авг. 2024 г.",
+      "thumbnail": "https://i.ytimg.com/vi/AIKsnAw9fnM/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru",
+          "en"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "gameplay",
+          "speedrun"
+        ]
+      },
+      "maps": [
+        "Resistance"
+      ],
+      "players": [
+        "Atsuko",
+        "RedRay32"
+      ],
+      "clans": [
+        "Nephritis"
+      ],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-11T15:12:28.144Z"
+    },
+    "oUaLgFhG-04": {
+      "title": "The rotting halls playthrough with PRO_Gaming1921 and catseyenebulous",
+      "author": "PRO_Gaming1921",
+      "views": 113,
+      "likes": 4,
+      "date": "20 июн. 2026 г.",
+      "thumbnail": "https://i.ytimg.com/vi/oUaLgFhG-04/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "en"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "gameplay"
+        ]
+      },
+      "maps": [
+        "TheRottingHalls"
+      ],
+      "players": [
+        "catseyenebulous",
+        "PRO_Gaming1921"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-05T20:09:05.154Z"
     }
   },
   "moderators": [
