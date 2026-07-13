@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T22:34:48.180Z",
+  "updatedAt": "2026-07-13T14:29:16.023Z",
   "updatedBy": "Admin-Panel-Sync",
   "videos": {
     "ROL67UcsRBg": {
@@ -7115,6 +7115,515 @@
       "clans": [],
       "addedBy": "local-sync",
       "addedAt": "2026-07-12T17:05:10.604Z"
+    },
+    "AO2T_7FkGE8": {
+      "title": "как создать пиздатую карту в дднет DDNET",
+      "author": "Lain",
+      "views": 524,
+      "likes": 7,
+      "date": "2026-01-12T14:28:35-08:00",
+      "thumbnail": "https://i.ytimg.com/vi/AO2T_7FkGE8/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "tutorial",
+          "other"
+        ]
+      },
+      "maps": [],
+      "players": [],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T13:25:28.826Z"
+    },
+    "BXjLAFEhU20": {
+      "title": "КАК Я ПЫТАЛСЯ ПРОХОДИТЬ MULTEASYMAP С ДРУГОМ | DDnet, DDraceNetwork",
+      "author": "VALSE",
+      "views": 123000,
+      "likes": 2037,
+      "date": "2024-06-20T22:50:22-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/BXjLAFEhU20/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "gameplay",
+          "fun"
+        ]
+      },
+      "maps": [
+        "Multeasymap"
+      ],
+      "players": [
+        "joit321",
+        "0ruрец"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T14:09:19.909Z"
+    },
+    "LhI7AsAoXLY": {
+      "title": "СОВМЕСТКА, КОТОРУЮ ЖДАЛИ ВСЕ в DDRACE | ALLWAR с НЕО NEOKAMORI | TEEWORLDS DDNET #письяк",
+      "author": "pisyak",
+      "views": 18637,
+      "likes": 243,
+      "date": "2024-07-29T00:24:25-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/LhI7AsAoXLY/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "DDRace",
+          "Block"
+        ],
+        "video": [
+          "moment",
+          "gameplay",
+          "podcast",
+          "fun",
+          "other"
+        ]
+      },
+      "maps": [
+        "Multeasymap"
+      ],
+      "players": [
+        "neo",
+        "pisyak"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T13:48:18.168Z"
+    },
+    "UwnO4IauI6s": {
+      "title": "#4 DDNet - Ghoul | Team rank 19 | Xardas & tw1zenn | 15:45.44",
+      "author": "tw1zenn",
+      "views": 153,
+      "likes": 4,
+      "date": "2026-04-26T22:39:53-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/UwnO4IauI6s/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "speedrun",
+          "gameplay",
+          "skips"
+        ]
+      },
+      "maps": [
+        "Ghoul"
+      ],
+      "players": [
+        "tw1zenn",
+        "Xardas"
+      ],
+      "clans": [
+        "Nephritis"
+      ],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T14:27:37.006Z"
+    },
+    "ZZ9PTscdLV8": {
+      "title": "БАЗОВЫЙ МИНИМУМ КЛБ / DDnet Block Tutorial",
+      "author": "Alekzz",
+      "views": 212,
+      "likes": 8,
+      "date": "2026-07-04T21:50:34-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/ZZ9PTscdLV8/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "Block"
+        ],
+        "video": [
+          "tutorial",
+          "other",
+          "gameplay"
+        ]
+      },
+      "maps": [],
+      "players": [
+        "Silvestr"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T13:39:20.019Z"
+    },
+    "deknNAS3d38": {
+      "title": "ВРУБИЛ СВОЙ НЕПОБЕДИМЫЙ CLOWN MOD | BLOCK TEEWORLDS DDNET",
+      "author": "Фуфырка",
+      "views": 1200,
+      "likes": 24,
+      "date": "Unknown Date",
+      "thumbnail": "https://i.ytimg.com/vi/deknNAS3d38/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "Block"
+        ],
+        "video": [
+          "gameplay",
+          "fun",
+          "meme",
+          "other",
+          "montage",
+          "moment"
+        ]
+      },
+      "maps": [
+        "Multeasymap"
+      ],
+      "players": [
+        "Фуфырка"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T14:00:05.895Z"
+    },
+    "gGGH7GpH73I": {
+      "title": "КАК УСТАНОВИТЬ ФОН В ДДНЕТ!)",
+      "author": "Фуфырка",
+      "views": 30000,
+      "likes": 209,
+      "date": "2023-05-13T10:00:09-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/gGGH7GpH73I/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "tutorial",
+          "other",
+          "montage"
+        ]
+      },
+      "maps": [],
+      "players": [
+        "Фуфырка"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T14:02:49.626Z"
+    },
+    "iIhnB-ddsz0": {
+      "title": "DDnet Rank 1 | The Tower (0.02 seconds)",
+      "author": "Skystrife",
+      "views": 16000,
+      "likes": 103,
+      "date": "2023-03-12T04:41:30-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/iIhnB-ddsz0/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "en"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "t0speedrun",
+          "playthrough",
+          "gameplay",
+          "skips"
+        ]
+      },
+      "maps": [
+        "The Tower"
+      ],
+      "players": [
+        "Skystrife"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T14:11:07.300Z"
+    },
+    "jRmferuJNLo": {
+      "title": "ТОП 10 КАРТ ДЛЯ НОВИЧКОВ (Kog и DDracenetwork)",
+      "author": "Myha",
+      "views": 6859,
+      "likes": 139,
+      "date": "2024-09-01T10:33:23-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/jRmferuJNLo/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "Gores",
+          "DDRace"
+        ],
+        "video": [
+          "tutorial",
+          "fun",
+          "other",
+          "podcast",
+          "montage"
+        ]
+      },
+      "maps": [],
+      "players": [],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T13:40:22.198Z"
+    },
+    "p-1HSaCcatI": {
+      "title": "DDnet Decompiled | Dalbychsipivo (2:28 Rank 1) Skip Explained",
+      "author": "Skystrife",
+      "views": 5418,
+      "likes": 161,
+      "date": "2023-03-07T05:01:11-08:00",
+      "thumbnail": "https://i.ytimg.com/vi/p-1HSaCcatI/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "en"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "t0speedrun",
+          "skips",
+          "gameplay"
+        ]
+      },
+      "maps": [
+        "dalbychsipivo"
+      ],
+      "players": [
+        "Skystrife",
+        "superdial",
+        "Exit",
+        "Sinecly",
+        "BaRSuM"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T14:12:48.315Z"
+    },
+    "pASC6YpSauU": {
+      "title": "DDraceNetwork - ЧТО ЭТО? | обзор",
+      "author": "VALSE",
+      "views": 18000,
+      "likes": 309,
+      "date": "2024-05-22T21:04:34-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/pASC6YpSauU/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "gameplay",
+          "fun"
+        ]
+      },
+      "maps": [],
+      "players": [
+        "Zelith",
+        "joit321"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T14:07:51.660Z"
+    },
+    "vEBpW-_25Ec": {
+      "title": "КОЛОБКИ С ПОДПИСЧИКОМ | DDraceNetwork, DDnet [перезалив]",
+      "author": "VALSE",
+      "views": 9100,
+      "likes": 128,
+      "date": "2024-09-27T03:11:35-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/vEBpW-_25Ec/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "gameplay",
+          "fun"
+        ]
+      },
+      "maps": [
+        "Kobra"
+      ],
+      "players": [
+        "joit321",
+        "aboba228777"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T14:06:19.311Z"
+    },
+    "vM3RE-bOUVQ": {
+      "title": "DDrace Last Chance Rank 1 | Teeworlds",
+      "author": "Skystrife",
+      "views": 2900,
+      "likes": 75,
+      "date": "2022-11-18T10:30:36-08:00",
+      "thumbnail": "https://i.ytimg.com/vi/vM3RE-bOUVQ/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "en"
+        ],
+        "mode": [
+          "DDRace"
+        ],
+        "video": [
+          "playthrough",
+          "t0speedrun",
+          "gameplay",
+          "skips"
+        ]
+      },
+      "maps": [
+        "Last Chance"
+      ],
+      "players": [
+        "Skystrife"
+      ],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T14:15:35.372Z"
+    },
+    "xSbAMjUWwss": {
+      "title": "ЧТО ТАКОЕ DDNET? ФИШКИ DDNET",
+      "author": "Myha",
+      "views": 51,
+      "likes": 3,
+      "date": "2024-09-07T08:09:59-07:00",
+      "thumbnail": "https://i.ytimg.com/vi/xSbAMjUWwss/hqdefault.jpg",
+      "tags": {
+        "game": [
+          "ddnet"
+        ],
+        "gameplayer": [
+          "real"
+        ],
+        "lang": [
+          "ru"
+        ],
+        "mode": [
+          "fng",
+          "DDRace"
+        ],
+        "video": [
+          "tutorial",
+          "gameplay",
+          "fun",
+          "other"
+        ]
+      },
+      "maps": [],
+      "players": [],
+      "clans": [],
+      "addedBy": "local-sync",
+      "addedAt": "2026-07-13T13:43:40.944Z"
     }
   },
   "moderators": [
